@@ -1,3 +1,6 @@
+This project is a React project to demonstrate the use of Context. This is a simple page with a dark/light theme toggle.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
